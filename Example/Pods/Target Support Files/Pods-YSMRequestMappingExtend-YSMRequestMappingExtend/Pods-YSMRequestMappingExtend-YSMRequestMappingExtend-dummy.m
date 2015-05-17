@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_YSMRequestMappingExtend_YSMRequestMappingExtend : NSObject
+@end
+@implementation PodsDummy_Pods_YSMRequestMappingExtend_YSMRequestMappingExtend
+@end
