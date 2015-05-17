@@ -1,0 +1,11 @@
+source 'https://github.com/CocoaPods/Specs.git'
+
+target 'YSMRequestMappingExtend', :exclusive => true do
+  pod "YSMRequestMappingExtend", :path => "../"
+end
+
+target 'Tests', :exclusive => true do
+  pod "YSMRequestMappingExtend", :path => "../"
+
+  
+end
