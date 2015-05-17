@@ -28,6 +28,7 @@ Pod::Spec.new do |s|
   s.source           = { :git => "https://github.com/Cain1127/YSMRequestMappingExtend.git", :tag => s.version.to_s }
 
   s.platform     = :ios, '7.1'
+  s.ios.deployment_target = '7.1'
   s.requires_arc = true
 
   s.source_files = 'Pod/Classes/**/*'
