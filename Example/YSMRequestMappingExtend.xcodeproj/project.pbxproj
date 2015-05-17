@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		18CD59D11B08756B00044889 /* YSMRequestCustomDataModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 18CD59D01B08756B00044889 /* YSMRequestCustomDataModel.m */; };
-		5D624A8B2FEC1666E6639F32 /* libPods-YSMRequestMappingExtend.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 49D65A7FD60C2126EE735599 /* libPods-YSMRequestMappingExtend.a */; };
+		5D624A8B2FEC1666E6639F32 /* libPods-YSMRequestMappingExtend.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 49D65A7FD60C2126EE735599 /* libPods-YSMRequestMappingExtend.a */; settings = {ATTRIBUTES = (Required, ); }; };
 		6003F58E195388D20070C39A /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6003F58D195388D20070C39A /* Foundation.framework */; };
 		6003F590195388D20070C39A /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6003F58F195388D20070C39A /* CoreGraphics.framework */; };
 		6003F592195388D20070C39A /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6003F591195388D20070C39A /* UIKit.framework */; };

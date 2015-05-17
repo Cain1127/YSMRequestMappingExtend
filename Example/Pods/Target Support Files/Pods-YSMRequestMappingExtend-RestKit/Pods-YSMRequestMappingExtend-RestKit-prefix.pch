@@ -3,6 +3,6 @@
 #endif
 
 #import "Pods-YSMRequestMappingExtend-environment.h"
-#ifdef COCOAPODS_POD_AVAILABLE_RestKit_CoreData
+#if __has_include("RKCoreData.h")
     #import <CoreData/CoreData.h>
 #endif
