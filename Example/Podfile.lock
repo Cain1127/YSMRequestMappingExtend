@@ -35,6 +35,8 @@ PODS:
     - RestKit/ObjectMapping (~> 0.23.3)
 
 DEPENDENCIES:
+  - AFNetworking (~> 2.3.1)
+  - RestKit/ObjectMapping (~> 0.23.3)
   - YSMRequestMappingExtend (from `../`)
 
 EXTERNAL SOURCES:
