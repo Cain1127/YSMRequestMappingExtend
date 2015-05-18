@@ -60,11 +60,6 @@ NSLog(@"request fail:%@",error);
 6、start request data
 [YSMRequestManager requestDataWithRequestTask:requestTask];
 
-
-```ruby
-pod "YSMRequestMappingExtend"
-```
-
 ## Author
 
 ysmeng, 49427823@163.com
